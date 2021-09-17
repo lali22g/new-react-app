@@ -4,6 +4,7 @@
   "description": "react app without cra",
   "main": "index.js",
   "scripts": {
+    "start": "webpack serve",
     "test": "test"
   },
   "repository": {
@@ -15,5 +16,14 @@
   "bugs": {
     "url": "https://github.com/lali22g/new-react-app/issues"
   },
-  "homepage": "https://github.com/lali22g/new-react-app#readme"
+  "homepage": "https://github.com/lali22g/new-react-app#readme",
+  "dependencies": {
+    "html-webpack-plugin": "^5.3.2",
+    "webpack": "^5.53.0",
+    "webpack-dev-server": "^4.2.1",
+    "webpack-server": "^0.1.2"
+  },
+  "devDependencies": {
+    "webpack-cli": "^4.8.0"
+  }
 }
