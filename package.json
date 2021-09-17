@@ -1,0 +1,19 @@
+{
+  "name": "new-react-app",
+  "version": "1.0.0",
+  "description": "react app without cra",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lali22g/new-react-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lali22g/new-react-app/issues"
+  },
+  "homepage": "https://github.com/lali22g/new-react-app#readme"
+}
