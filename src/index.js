@@ -1,1 +1,7 @@
-document.querySelector('#fromjs').innerHTML = `<h1>From index.js</h1>`;
+import React from 'react';
+import ReactDOM from 'react-dom';
+
+ReactDOM.render(
+  'hello from react',
+  document.querySelector("#fromjs")
+)
