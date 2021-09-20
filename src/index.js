@@ -2,6 +2,6 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 
 ReactDOM.render(
-  'hello from react',
+  <p>hello from react (hi from JSX)</p>,
   document.querySelector("#fromjs")
 )
